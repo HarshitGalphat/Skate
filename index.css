@@ -121,7 +121,7 @@ button{
 /* aboutpage starts */
 #about{
     height: 100vh;
-    background: url("img/matteo-paganelli-FhHGPO3aMsU-unsplash.jpg");
+    background: url("img/shawn-henry-eK_aInAXydw-unsplash.jpg");
     background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -131,6 +131,7 @@ button{
     justify-content: center;
     align-items: center;
     padding: 100px 40px;
+    margin-top: 100px;
     /* align-items: start; */
     gap: 50px;
 }
