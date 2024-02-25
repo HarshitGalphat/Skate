@@ -80,8 +80,8 @@ video{
   position: relative;
   display: flex;
   flex-direction: column;
-  justify-content: start;
-  align-items: center;
+  justify-content: center;
+  align-items: start;
   width: max-content;
   height: fit-content;
   padding: 10rem 3rem;
@@ -116,9 +116,6 @@ button{
 .container{
     height: 50vh;
     color: black;
-}
-.container1{
-    /* margin-top: 20px; */
 }
 /* homepage end */
 /* aboutpage starts */
