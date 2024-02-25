@@ -127,7 +127,7 @@ button{
     background-size: cover;
     background-attachment: fixed;
     display: flex;
-    /* flex-direction: column; */
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     /* padding: 100px 40px; */
@@ -148,7 +148,7 @@ button{
 }
 #des{
     font-size: 1.5rem;
-    text-align: start;
+    text-align: center;
     color: white;
     width: 70vw;
     /* font-weight: bold; */
