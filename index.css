@@ -78,6 +78,10 @@ video{
 }
 .overtext{
   position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
   width: max-content;
   height: fit-content;
   padding: 10rem 3rem;
@@ -127,7 +131,7 @@ button{
     background-attachment: fixed;
     display: flex;
     flex-direction: column;
-    justify-content: start;
+    justify-content: center;
     align-items: center;
     padding: 100px 40px;
     /* align-items: start; */
